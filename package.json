@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
-  "version": "0.2.7",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "name": "biblioteca",
+  "version": "0.0.1",
+  "description": "Biblioteca personal de Jesus",
+  "repository": "llius123/Biblioteca",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/llius123/Biblioteca/issues",
   "devDependencies": {
     "stylelint": "^10.0.1",
     "stylelint-config-primer": "^8.0.0",
