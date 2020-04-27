@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Biblioteca Jesús
 description: Biblioteca personal de Jesús
-baseurl: "/biblioteca" # the subpath of your site, e.g. /blog
+baseurl: "/Biblioteca" # the subpath of your site, e.g. /blog
 url: "https://llius123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
