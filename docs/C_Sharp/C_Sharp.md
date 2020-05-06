@@ -1,9 +1,9 @@
 ---
 layout: default
 title: C Sharp
-nav_order: 2
 has_children: true
-permalink: /docs/C_Sharp
+nav_order: 3
+permalink: /docs/c_sharp
 ---
 
 # C# apuntes

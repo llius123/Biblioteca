@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crear archivo de configuracion
-parent: C_Sharp
+parent: C Sharp
 ---
 
 # Crear archivo de configuracion

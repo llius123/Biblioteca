@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Como abrir un formulario(como si se pulsara para cambiar de tab)
-parent: C_Sharp
+parent: C Sharp
 ---
 
 # Como abrir un formulario(como si se pulsara para cambiar de tab)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Importar dll al proyecto
-parent: C_Sharp
+parent: C Sharp
 ---
 
 # Importar dll al proyecto
