@@ -26,3 +26,20 @@ execute("ping -c 4 0.0.0.0", (output) => {
 ```
 
 https://tortoisegit.org/docs/tortoisegit/tgit-automation.html
+
+### Fix 'X-Frame-Options' to 'deny'.
+
+En main.js añadir esto:
+```javascript
+window.webContents.session.webRequest.onHeadersReceived(
+  {urls: ['*://*/*']},
+  (details, callback) => {
+    Object.keys(details.responseHeaders).filter(x => x.toLowerCase() === 'x-frame-options')
+          .map(x => delete details.responseHeaders[x])
+
+    callback({
+      cancel: false,
+      responseHeaders: details.responseHeaders,
+    })
+  },
+)
