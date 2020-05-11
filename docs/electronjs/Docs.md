@@ -43,3 +43,44 @@ window.webContents.session.webRequest.onHeadersReceived(
     })
   },
 )
+```
+
+### Como activar el componente webview en electronJS
+1. ir a main.js/main.ts y añadir una propiedad a BrownserWindow
+```javascript
+  win = new BrowserWindow({
+  ...
+    webPreferences: {
+      webviewTag: true,
+    },
+  });
+  ```
+2. Ir al componente que queramos y añadirlo
+> Yo en este caso lo que he hecho a sidop añadirlo dinamicamente desde el .ts
+```javascript
+    let webview = document.createElement("webview");
+    webview.setAttribute("src", "https://github.com/");
+    webview.style.display = "flex";
+    webview.style.width = "100%";
+    webview.style.height = "100%";
+    webview.setAttribute("id", "https://github.com/");
+    webview.setAttribute("partition", "persist:github");
+    this.elementRef.nativeElement
+      .querySelector(".webview-container")
+      .appendChild(webview);
+```
+> [Documentacion webview de electron](https://www.electronjs.org/docs/api/webview-tag)
+
+### Como leer las cookies
+1. Esto solo se puede hacer si estoy usando este [repo](https://github.com/maximegris/angular-electron)
+```javascript
+      this.electronService.remote.session
+        .defaultSession
+        .cookies.get({})
+        .then((cookie) => {
+          cookie.forEach((element) => {
+            console.log(element);
+          });
+        })
+```
+> [Documentacion de electronjs cookies](https://www.electronjs.org/docs/api/cookies)
