@@ -6,8 +6,6 @@ parent: ElectronJS
 
 # Docs
 
-## Aplicacion con angular + electron + nodegit
-
 ### Para ejecutar un script desde el electron
 
 ```javascript
