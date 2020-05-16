@@ -15,3 +15,7 @@ https://chrome.google.com/webstore/detail/copycat-testing-extension/dlbnejfbjfik
 ResponsiveViewer
 Pone la pagina web en distintos dispositivos
 https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb
+
+## Esto no es una extension de chrome pero sirve para los mismo que las otras 2 apps
+[Responsively](https://manojvivek.github.io/responsively-app/)
+Esta app sirve para mostrar una pagina web en distintos formatos.
