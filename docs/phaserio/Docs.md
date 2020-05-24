@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phser.io docs
-parent: phaser.io
+parent: phaserio
 ---
 
 # Docs
