@@ -1,3 +1,9 @@
+---
+layout: default
+title: Textos para leer en ingles
+parent: Ingles
+---
+
 # Links
 
 https://angular-academy.com/angular-architecture-best-practices/index.html
