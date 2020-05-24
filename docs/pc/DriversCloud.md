@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DriversCloud
-parent: pc
+parent: PC
 ---
 
 # DriversCloud

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flux luz
-parent: pc
+parent: PC
 ---
 
 # Flux

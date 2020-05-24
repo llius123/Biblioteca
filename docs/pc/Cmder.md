@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cmder
-parent: pc
+parent: PC
 ---
 
 # Cmder

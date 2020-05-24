@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ShareX
-parent: pc
+parent: PC
 ---
 
 # ShareX

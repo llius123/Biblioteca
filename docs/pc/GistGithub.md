@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gist github
-parent: pc
+parent: PC
 ---
 
 # Gist github
