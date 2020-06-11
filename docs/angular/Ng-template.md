@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ng container
+title: Ng template
 parent: Angular
 ---
 
