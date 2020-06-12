@@ -136,7 +136,7 @@ export class TestDirective {
 
 Resultado
 
-![image-20200611102504914](.\img\image-20200611102504914.png)
+![image-20200611102504914](img\image-20200611102504914.png)
 
 > Recordatorio:
 >
