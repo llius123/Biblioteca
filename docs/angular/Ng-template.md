@@ -136,4 +136,8 @@ export class TestDirective {
 
 Resultado
 
-![image-20200611102504914](D:\Apuntes\Biblioteca\docs\angular\img\image-20200611102504914.png)
+![image-20200611102504914](.\img\image-20200611102504914.png)
+
+> Recordatorio:
+>
+> Acordarse de definir en el `decalrations` del modulo la directiva
