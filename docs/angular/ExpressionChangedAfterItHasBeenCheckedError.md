@@ -67,3 +67,7 @@ Donde `cd` esta definido en el constructor de `app.component.ts`.
 
 [Entiendiendo la deteccion de cambios](https://blog.maestriajs.com/blog/angular/Angular-Detect-Changes/)
 
+***Solucion 2***
+
+https://blog.angular-university.io/angular-debugging/
+
