@@ -14,7 +14,7 @@ Algo que aprendi de este programador ([Adam](https://www.twitch.tv/Adam13531)) e
 
 Asi que este 'blog' son todos los apuntes que llevo creando desde 2019.
 
-- Mi forma de trabajar ([link](https://llius123.github.io/Biblioteca/trabajar))
+- Mi forma de trabajar ([link](https://llius123.github.io/Biblioteca/docs/trabajar))
 
 > _Todo lo que aparece aqui son apuntes personales y cosas mias, no son guias profesionales ni nada por el estilo, asi que no hay que tratar los apuntes como guias_
 
