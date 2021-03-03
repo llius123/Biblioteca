@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Git
+title: Forma de trabajar
 nav_order: 1
 has_children: true
 permalink: /docs/trabajar
