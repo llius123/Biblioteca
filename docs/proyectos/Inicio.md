@@ -7,3 +7,5 @@ permalink: /docs/proyectos
 ---
 
 # Proyectos personales
+
+Listado de proyectos personales que hago en mi tiempo libre.
